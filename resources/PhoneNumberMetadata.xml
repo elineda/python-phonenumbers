@@ -9800,7 +9800,7 @@
         <nationalNumberPattern>
           700\d{6}|
           (?:
-            6\d|
+            6|7\d|
             7[3-9]
           )\d{7}
         </nationalNumberPattern>
